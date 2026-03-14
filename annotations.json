@@ -1,0 +1,1202 @@
+[
+    {
+        "audio": "data/training/Zwhisper70/1.wav",
+        "text": "Send a text to Alex and tell him I'm running ten minutes late because of the traffic on the bridge.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/2.wav",
+        "text": "Create a calendar event for Tuesday at 4:30 P.M. for the dentist appointment.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/3.wav",
+        "text": "Add two bottles of sparkling water, a lemon, and one pound of organic salmon to my grocery list.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/4.wav",
+        "text": "Please draft a reply to that email from my boss and confirm the meeting details for next Friday morning.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/5.wav",
+        "text": "Remind me in two hours to call the contractor back about the leaky faucet in the bathroom.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/6.wav",
+        "text": "Turn off all the lights downstairs, then set the thermostat in the living room to sixty-eight degrees.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/7.wav",
+        "text": "Start the dishwasher normal cycle and turn on the television to the news channel.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/8.wav",
+        "text": "I'm leaving now. Lock the back door and arm the security system in home mode.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/9.wav",
+        "text": "When the movie starts, dim the ceiling light to twenty percent and turn the side lamps completely off.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/10.wav",
+        "text": "Show me the front door camera feed on the kitchen display and mute the speaker.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/11.wav",
+        "text": "What is the current stock price for Tesla, and how much did it change in the last hour?",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/12.wav",
+        "text": "Find a video tutorial on YouTube that explains how to propagate a succulent plant.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/13.wav",
+        "text": "Search for the nearest Thai restaurant that has a four-star rating or higher and call them.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/14.wav",
+        "text": "Summarize the main points of the latest article about the election results in the Pacific Northwest.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/15.wav",
+        "text": "Tell me about the history of the Roman Colosseum and read the first paragraph.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/16.wav",
+        "text": "Cancel that last command, I mean, don't turn on the... the dining room light, just the kitchen one.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/17.wav",
+        "text": "Okay, set a reminder for tomorrow, no, wait, set it for Wednesday at lunch time to pay the phone bill.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/18.wav",
+        "text": "Raise the volume one notch, then, uh, change the music genre to smooth jazz.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/19.wav",
+        "text": "Hey, what was that recipe I looked up yesterday? I mean, the one for the chocolate chip cookies.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/20.wav",
+        "text": "Check my recent emails for messages from Sarah, and draft a response saying I'll review her proposal soon.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/21.wav",
+        "text": "Help me check missed calls from the past hour and text the first person back to ask if it was urgent.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/22.wav",
+        "text": "Scan my inbox for the subject line 'Quarterly Review' and add the first attachment to my to-do list.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/23.wav",
+        "text": "Please check my voicemail; if it's the doctor's office, immediately call them back on speakerphone.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/24.wav",
+        "text": "Read the last three unread messages in my work chat, and prepare a short acknowledgment for each.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/25.wav",
+        "text": "What is the weather forecast for tomorrow morning, and schedule my dog walk to avoid the rain.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/26.wav",
+        "text": "Check my calendar for open time slots between three and five P.M., and send an invite to John for a quick sync-up.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/27.wav",
+        "text": "Calculate the drive time to the airport right now, and set an alarm for an hour earlier than I need to leave.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/28.wav",
+        "text": "Find the address for the new restaurant downtown and add it as a destination to my Saturday dinner plan.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/29.wav",
+        "text": "Look up the return policy for the vacuum cleaner, and then find the closest shipping depot to my current location.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/30.wav",
+        "text": "Check the battery level on my tablet; if it is below fifty percent, activate power saving mode immediately.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/31.wav",
+        "text": "What is the current humidity in the baby's room, and if it's over sixty percent, turn on the dehumidifier.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/32.wav",
+        "text": "Check the oven timer; if it's still running, silence the notification and add another five minutes.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/33.wav",
+        "text": "Locate my misplaced keys using the tracker app, and if they are at home, make them beep quietly.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/34.wav",
+        "text": "Show me the list of my favorite playlists and begin playing the most recently updated one at low volume.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/35.wav",
+        "text": "play music",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/36.wav",
+        "text": "check if there are any music clips and play",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/37.wav",
+        "text": "stop music and call the last missed call number",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/38.wav",
+        "text": "Pause video and send email to team members for a meeting in one hour",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/39.wav",
+        "text": "volume down and check unread emails and messages",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/40.wav",
+        "text": "Screen off.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/41.wav",
+        "text": "could you call when reaches.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/42.wav",
+        "text": "Call Mom now.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/43.wav",
+        "text": "Open photos.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/44.wav",
+        "text": "Start timer for ten minutes.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/45.wav",
+        "text": "Go back.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/46.wav",
+        "text": "Go back and screenshot.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/47.wav",
+        "text": "next slide.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/48.wav",
+        "text": "next slide and zoom in.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/49.wav",
+        "text": "check if there are any unread emails or messges.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/50.wav",
+        "text": "Turn on the desk lamp.",
+        "speaker": "sunzhiming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/51.wav",
+        "text": "send a text message to my wife to meet for diner today.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/52.wav",
+        "text": "help me to check missed calls to call back callers.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/53.wav",
+        "text": "Turn off the kitchen lights.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/54.wav",
+        "text": "Set temperature to seventy.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/55.wav",
+        "text": "Lock the front door.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/56.wav",
+        "text": "Dim the living room.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/57.wav",
+        "text": "switch off lights and Open blinds.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/58.wav",
+        "text": "Set alarm for six A.M.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/59.wav",
+        "text": "Is it raining outside?",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/60.wav",
+        "text": "Turn on the bedroom fan.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/61.wav",
+        "text": "Check the baby monitor.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/62.wav",
+        "text": "Send email to my wife about a dinner together.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/63.wav",
+        "text": "Text manager: I'll be five minutes late.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/64.wav",
+        "text": "What is my next meeting?",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/65.wav",
+        "text": "Remind me to take the trash out.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/66.wav",
+        "text": "Create a note: Buy milk.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/67.wav",
+        "text": "Show me today's headlines.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/68.wav",
+        "text": "Where did I park the car?",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/69.wav",
+        "text": "Add eggs to the shopping list.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/70.wav",
+        "text": "Look up the recipe for pasta.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/71.wav",
+        "text": "Please send a message to John and let him know I will arrive ten minutes late today.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/72.wav",
+        "text": "Create a reminder for tomorrow afternoon to check the delivery status of the new office supplies.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/73.wav",
+        "text": "Add fresh tomatoes, a pack of pasta, and grated parmesan cheese to my weekly grocery list now.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/74.wav",
+        "text": "Draft a quick email to my manager explaining that the project update will be ready by evening.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/75.wav",
+        "text": "Remind me in one hour to call the technician about the persistent noise coming from the air conditioner.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/76.wav",
+        "text": "Turn off the living room lights and reduce the main thermostat temperature to sixty-eight degrees.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/77.wav",
+        "text": "Start the washing machine on a gentle cycle and switch on the living room television to the news channel.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/78.wav",
+        "text": "I am leaving home now, please lock all the doors and activate the home security system immediately.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/79.wav",
+        "text": "When the movie begins, dim the main lights to thirty percent and switch off the two side lamps entirely.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/80.wav",
+        "text": "Display the backyard camera on the main screen and mute all audio notifications for the next hour.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/81.wav",
+        "text": "Tell me the current stock price of Apple and highlight how much it has changed since this morning.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/82.wav",
+        "text": "Look for a tutorial that explains how to repot indoor plants and show the top-rated version on YouTube.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/83.wav",
+        "text": "Search for the nearest Italian restaurant with a high rating and place a call to confirm reservations.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/84.wav",
+        "text": "Summarize the key findings from the latest environmental study released earlier this week.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/85.wav",
+        "text": "Tell me the history of the Eiffel Tower and read aloud the opening paragraph from the description.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/86.wav",
+        "text": "Cancel the previous instruction, and instead turn on only the kitchen light while keeping the others off.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/87.wav",
+        "text": "Please set a reminder for Wednesday around lunchtime to review the phone bill before it is due.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/88.wav",
+        "text": "Increase the speaker volume slightly, then switch the music genre to soft acoustic instrumental.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/89.wav",
+        "text": "What was the dessert recipe I searched for yesterday? Please show me the chocolate mousse instructions again.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/90.wav",
+        "text": "Check my inbox for new messages from David and prepare a short response acknowledging his proposal.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/91.wav",
+        "text": "Help me review missed calls from the last hour and send a quick text asking whether the call was urgent.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/92.wav",
+        "text": "Look for emails containing the subject \"Budget Overview\" and flag the first attachment for later review.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/93.wav",
+        "text": "Please check all voicemail messages and call the doctor's office back immediately if they left a new update.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/94.wav",
+        "text": "Read my three most recent unread messages and help me respond with brief acknowledgments for each one.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/95.wav",
+        "text": "Tell me tomorrow morning's weather forecast and schedule my jogging time to avoid possible rainfall.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/96.wav",
+        "text": "Look through my calendar for available slots between two and four P.M. and send an invite to Emily.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/97.wav",
+        "text": "Calculate the current driving time to the airport and set an alarm one hour before I need to leave.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/98.wav",
+        "text": "Find the new bakery downtown and add its address to my list of recommended places for Saturday morning.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/99.wav",
+        "text": "Check the return policy for the blender I purchased and locate the nearest drop-off center for returns.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/100.wav",
+        "text": "Tell me the tablet's current battery level and activate power saving mode if it's below forty percent.",
+        "speaker": "sunhaoming",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/101.wav",
+        "text": "What is the humidity level in the bedroom? Turn on the dehumidifier automatically if it exceeds sixty percent.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/102.wav",
+        "text": "Check the oven timer and, if still running, silence the alert and add five additional minutes to the countdown.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/103.wav",
+        "text": "Locate my misplaced wallet using the tracking tag and make a soft beep if it is detected at home.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/104.wav",
+        "text": "Show me all saved playlists and start playing the most recently updated one at a low volume setting.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/105.wav",
+        "text": "Please start playing my favorite music right now through the main speakers in the living room.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/106.wav",
+        "text": "Check if there are any saved audio clips today and play the most recent one automatically.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/107.wav",
+        "text": "Stop the currently playing music immediately and call the last missed number from my call history.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/108.wav",
+        "text": "Pause the video on screen and send a meeting reminder to all team members for one hour from now.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/109.wav",
+        "text": "Reduce the speaker volume and check whether there are unread messages or unviewed notifications.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/110.wav",
+        "text": "Turn off the screen completely until I return and keep all notifications silent during this period.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/111.wav",
+        "text": "Could you call me whenever the package arrives at the front door this afternoon?",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/112.wav",
+        "text": "Please call my mother right now and switch the call to speakerphone once it connects.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/113.wav",
+        "text": "Open the gallery and display the most recent photos taken during the trip last weekend.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/114.wav",
+        "text": "Start a countdown timer for exactly ten minutes and notify me when the time has elapsed.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/115.wav",
+        "text": "Go back to the previous menu and display the earlier page that was shown before this one.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/116.wav",
+        "text": "Go back one step and take a quick screenshot of the screen you returned to just now.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/117.wav",
+        "text": "Move to the next slide in the presentation and wait briefly before making further changes.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/118.wav",
+        "text": "Advance to the next slide and zoom in slightly on the image displayed at the center.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/119.wav",
+        "text": "Check my inbox and notify me if there are any unread emails or pending messages.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/120.wav",
+        "text": "Turn on the desk lamp beside the computer and set it to medium brightness.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/121.wav",
+        "text": "Send my wife a message inviting her to meet for dinner later this evening.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/122.wav",
+        "text": "Review missed calls from today and call back anyone who attempted to reach me twice.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/123.wav",
+        "text": "Turn off the kitchen lights completely and activate the night mode for the hallway.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/124.wav",
+        "text": "Set the home temperature to seventy degrees and apply it to all rooms.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/125.wav",
+        "text": "Lock the main front door securely and verify that the locking mechanism is active.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/126.wav",
+        "text": "Dim the living room lights to a calming low level suitable for evening relaxation.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/127.wav",
+        "text": "Turn off all lights and then open the window blinds halfway to let daylight in.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/128.wav",
+        "text": "Set an alarm for six A.M. tomorrow morning with a gentle wake-up tone.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/129.wav",
+        "text": "Is it currently raining outside? Check the weather and notify me immediately.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/130.wav",
+        "text": "Turn on the bedroom fan and set it to the quiet low-speed mode.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/131.wav",
+        "text": "Check the baby monitor feed and let me know if the baby is awake.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/132.wav",
+        "text": "Send a short email to my wife asking whether she would like dinner together tonight.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/133.wav",
+        "text": "Text my manager saying that I will be arriving about five minutes late today.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/134.wav",
+        "text": "What is my next scheduled meeting for today and when does it start?",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/135.wav",
+        "text": "Remind me to take the trash outside before I go to sleep tonight.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/136.wav",
+        "text": "Create a new note saying that I should buy milk on my way home.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/137.wav",
+        "text": "Show me today's news headlines and highlight the three most important stories.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/138.wav",
+        "text": "Help me locate where I parked the car earlier this afternoon.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/139.wav",
+        "text": "Please add eggs to the shopping list for my next grocery trip.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/140.wav",
+        "text": "Look up a simple pasta recipe and display the ingredients clearly.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/141.wav",
+        "text": "Please check whether any new system updates are available for installation tonight.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/142.wav",
+        "text": "Read the latest message from my coworker and help me send a short acknowledgment.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/143.wav",
+        "text": "Add fresh apples, orange juice, and cereal to tomorrow's breakfast shopping list.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/144.wav",
+        "text": "Remind me to water the plants this evening before it gets dark.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/145.wav",
+        "text": "Search the web for tips on improving sleep quality and show me the top results.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/146.wav",
+        "text": "Please lower the brightness of the bedroom lights to a soft warm glow.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/147.wav",
+        "text": "Turn on the study room lamp and set it to focused white light.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/148.wav",
+        "text": "Check for new notifications on my phone and summarize them briefly.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/149.wav",
+        "text": "Silence all alerts for the next thirty minutes while I meditate quietly.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/150.wav",
+        "text": "Remind me in fifteen minutes to stretch and take a short walking break.",
+        "speaker": "wangenqi",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/151.wav",
+        "text": "Start playing a relaxing ambient sound playlist at a low volume setting.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/152.wav",
+        "text": "Read the latest weather update and tell me if strong winds are expected tonight.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/153.wav",
+        "text": "Open my recent documents and highlight the ones I have not reviewed.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/154.wav",
+        "text": "Turn on the home office heater and set the temperature to a comfortable level.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/155.wav",
+        "text": "Please close all background apps running on my device to improve performance.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/156.wav",
+        "text": "Search for the nearest pharmacy and provide directions using the map app.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/157.wav",
+        "text": "Add a new task reminding me to send the weekly project report.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/158.wav",
+        "text": "Show me recent photos of my pets stored in the cloud.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/159.wav",
+        "text": "Tell me today's air quality index and warn me if it's unhealthy.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/160.wav",
+        "text": "Please check if the laundry is finished and notify me when it is done.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/161.wav",
+        "text": "Help me draft a short to-do list for tomorrow's morning schedule.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/162.wav",
+        "text": "Switch the television to the documentary channel and lower the volume slightly.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/163.wav",
+        "text": "Display my calendar for next month and highlight any upcoming holidays.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/164.wav",
+        "text": "Add a reminder for Saturday morning to clean the backyard patio.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/165.wav",
+        "text": "Check system storage space and alert me if it's approaching capacity.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/166.wav",
+        "text": "Please show me my recently played music and resume the last track.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/167.wav",
+        "text": "Search my emails for receipts from last week and organize them into a folder.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/168.wav",
+        "text": "Open the notes app and create a new entry titled \"Meeting Summary.\"",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/169.wav",
+        "text": "Turn on the kettle and set a reminder for when the water begins boiling.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/170.wav",
+        "text": "Provide a quick traffic update for my usual route to work.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/171.wav",
+        "text": "Check if any new voice messages were received overnight.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/172.wav",
+        "text": "Reduce the screen brightness slightly to make it more comfortable.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/173.wav",
+        "text": "Update my grocery list by adding bananas, yogurt, and honey.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/174.wav",
+        "text": "Set a reminder for this evening to reply to pending messages.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/175.wav",
+        "text": "Start the vacuum cleaner in quiet mode for the living room area.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/176.wav",
+        "text": "Please turn on the hallway lights and dim them to a soft level.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/177.wav",
+        "text": "Check if the windows are open and notify me if I should close them.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/178.wav",
+        "text": "Search the internet for simple dinner ideas using vegetables I already have.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/179.wav",
+        "text": "Display recent browser tabs I visited and reopen the most important one.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/180.wav",
+        "text": "Add toothpaste and shampoo to the personal care shopping list.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/181.wav",
+        "text": "Tell me the time in Tokyo right now and whether it is daytime there.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/182.wav",
+        "text": "Remind me tomorrow to schedule an appointment with the dentist.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/183.wav",
+        "text": "Switch to the audiobook I was listening to and continue from the last position.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/184.wav",
+        "text": "Check my energy usage for today and notify me if consumption is unusually high.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/185.wav",
+        "text": "Search my files for the project proposal document and open it.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/186.wav",
+        "text": "Show me my fitness activity summary for today including steps and calories.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/187.wav",
+        "text": "Tell me the battery level of my wireless earbuds and charge them if possible.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/188.wav",
+        "text": "Add a note reminding me to organize my office desk this weekend.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/189.wav",
+        "text": "Load the to-do list and highlight the tasks marked as urgent.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/190.wav",
+        "text": "Start playing white noise softly for background concentration.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/191.wav",
+        "text": "Notify me if any package deliveries are expected today.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/192.wav",
+        "text": "Check the living room temperature and adjust it if necessary.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/193.wav",
+        "text": "Open the smart home dashboard and show energy consumption charts.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/194.wav",
+        "text": "Read aloud the latest reminder on my list for today.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/195.wav",
+        "text": "Prepare a short summary of news about technology updates.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/196.wav",
+        "text": "Check if there are missed calls from unknown numbers.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/197.wav",
+        "text": "Turn on the laundry room light and check the drying cycle.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/198.wav",
+        "text": "Remind me to back up important files this afternoon.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/199.wav",
+        "text": "Display events scheduled for the upcoming weekend.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    },
+    {
+        "audio": "data/training/Zwhisper70/200.wav",
+        "text": "Tell me if there are any system alerts requiring attention.",
+        "speaker": "cailin",
+        "loudness": "whisper"
+    }
+]
