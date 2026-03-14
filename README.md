@@ -1,35 +1,35 @@
-# Trim a Voice — Suppression du silence en fin d'enregistrement
+# Trim a Voice — Remove Trailing Silence from Recordings
 
-Script Python pour supprimer automatiquement le silence en fin de fichier audio. Utile quand l'orateur a oublié d'arrêter l'enregistrement (ex. : 30 s de parole dans un fichier de 5 min).
+A Python script to automatically remove trailing silence from audio files. Useful when the speaker forgot to stop the recording (e.g. 30s of speech in a 5-minute file).
 
-**Fonctionne pour :**
-- Voix **normale** (parole à volume standard)
-- Voix **chuchotée** (whisper)
+**Works for:**
+- **Normal voice** (standard volume speech)
+- **Whispered voice** (whisper)
 
-## Prérequis
+## Requirements
 
 - **Python 3.8+**
-- **ffmpeg** (requis par pydub pour manipuler les fichiers audio)
+- **ffmpeg** (required by pydub to handle audio files)
 
 ## Installation
 
-### Option rapide (Windows)
+### Quick setup (Windows)
 
 ```bash
-setup.bat       # Invite de commandes
-# ou
+setup.bat       # Command Prompt
+# or
 .\setup.ps1     # PowerShell
 ```
 
-### Installation manuelle
+### Manual installation
 
-1. **Aller dans le dossier du projet**
+1. **Go to the project folder**
 
    ```bash
-   cd 7Sam
+   cd trim-a-voice
    ```
 
-2. **Créer un environnement virtuel (recommandé)**
+2. **Create a virtual environment (recommended)**
 
    ```bash
    python -m venv venv
@@ -37,102 +37,102 @@ setup.bat       # Invite de commandes
    # source venv/bin/activate  # Linux / macOS
    ```
 
-3. **Installer les dépendances**
+3. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Installer ffmpeg**
+4. **Install ffmpeg**
 
-**Windows :**
+**Windows:**
 
-- Télécharger : https://ffmpeg.org/download.html (ou via winget : `winget install ffmpeg`)
-- Ajouter `ffmpeg` au PATH système
+- Download: https://ffmpeg.org/download.html (or via winget: `winget install ffmpeg`)
+- Add `ffmpeg` to the system PATH
 
-**Linux :**
+**Linux:**
 
 ```bash
 sudo apt install ffmpeg   # Debian/Ubuntu
 sudo dnf install ffmpeg   # Fedora
 ```
 
-**macOS :**
+**macOS:**
 
 ```bash
 brew install ffmpeg
 ```
 
-## Utilisation
+## Usage
 
-### Commande de base
+### Basic command
 
 ```bash
-python trim_speech.py <fichier ou dossier> [fichier ou dossier] ...
+python trim_speech.py <file or folder> [file or folder] ...
 ```
 
-### Exemples
+### Examples
 
 ```bash
-# Un seul fichier (ex: 25.wav de 8 min → garde la parole, supprime le reste)
+# Single file (e.g. 25.wav of 8 min → keeps speech, removes the rest)
 python trim_speech.py "NormalSpeech/25.wav"
 
-# Voix NORMALE (seuil par défaut -40 dB)
-python trim_speech.py NormalVoice
-python trim_speech.py data/training/voix_normale
+# Normal voice (default threshold -40 dB)
+python trim_speech.py NormalSpeech
+python trim_speech.py data/training/normal_voice
 
-# Voix CHUCHOTÉE (seuil plus sensible -45 à -50 dB)
+# Whispered voice (more sensitive threshold -45 to -50 dB)
 python trim_speech.py WhisperSpeech -t -48
 
-# Plusieurs dossiers (mixte normal + whisper — utiliser -48 pour tout garder)
-python trim_speech.py NormalVoice WhisperSpeech -t -48
+# Multiple folders (mixed normal + whisper — use -48 to keep everything)
+python trim_speech.py NormalSpeech WhisperSpeech -t -48
 
-# Si -t ne coupe rien (bruit de fond constant) : utiliser -e (méthode énergie)
+# If -t doesn't cut anything (constant background noise): use -e (energy method)
 python trim_speech.py "./NormalSpeech/25.wav" -e
 
-# Idéal : lancer séparément avec le bon seuil pour chaque type
-python trim_speech.py NormalVoice                    # voix normale
-python trim_speech.py WhisperSpeech -t -48           # chuchoté
+# Best practice: run separately with the right threshold for each type
+python trim_speech.py NormalSpeech                   # normal voice
+python trim_speech.py WhisperSpeech -t -48           # whispered
 
-# Sauvegarder dans un nouveau dossier sans modifier les originaux
+# Save to a new folder without modifying the originals
 python trim_speech.py WhisperSpeech --no-in-place -o output_trimmed
 
-# Test sans modification (dry-run)
+# Test without modifying files (dry-run)
 python trim_speech.py WhisperSpeech --dry-run
 ```
 
-### Choix du seuil (`-t`)
+### Threshold guide (`-t`)
 
-| Type de voix | Seuil recommandé |
-|--------------|-------------------|
-| **Normale**  | `-40` (défaut)    |
-| **Chuchotée**| `-45` à `-50`     |
+| Voice type   | Recommended threshold |
+|--------------|-----------------------|
+| **Normal**   | `-40` (default)       |
+| **Whispered**| `-45` to `-50`        |
 
 ## Options
 
 | Option | Description |
 |--------|-------------|
-| `-t`, `--silence-thresh` | Seuil de silence en dB. Normal : -40 (défaut). Chuchoté : -45 à -50 |
-| `--min-silence-len` | Durée minimale de silence pour être considéré (ms, défaut : 500) |
-| `--keep-silence` | Silence à garder après la parole (ms, défaut : 300) |
-| `-o`, `--output` | Dossier de sortie (avec `--no-in-place`) |
-| `--no-in-place` | Sauvegarder dans un dossier de sortie au lieu de modifier les fichiers |
-| `--dry-run` | Afficher les fichiers sans les modifier |
-| `-e`, `--energy` | Méthode énergie (quand le seuil dB ne suffit pas, ex. bruit constant) |
-| `--debug` | Afficher l'analyse (avec `-e`) |
+| `-t`, `--silence-thresh` | Silence threshold in dB. Normal: -40 (default). Whispered: -45 to -50 |
+| `--min-silence-len` | Minimum silence duration to be considered (ms, default: 500) |
+| `--keep-silence` | Silence to keep after speech (ms, default: 300) |
+| `-o`, `--output` | Output folder (used with `--no-in-place`) |
+| `--no-in-place` | Save to output folder instead of modifying files in place |
+| `--dry-run` | List files without modifying them |
+| `-e`, `--energy` | Energy method (when dB threshold is not enough, e.g. constant background noise) |
+| `--debug` | Show energy analysis (with `-e`) |
 
-## Format supporté
+## Supported formats
 
 - `.wav` / `.wave`
 - `.mp3`
 
-## Structure du projet
+## Project structure
 
 ```
 trim-a-voice/
-├── trim_speech.py      # Script principal
-├── requirements.txt   # Dépendances Python
-├── setup.bat          # Installation rapide (Windows CMD)
-├── setup.ps1          # Installation rapide (PowerShell)
-└── README.md          # Ce fichier
+├── trim_speech.py      # Main script
+├── requirements.txt    # Python dependencies
+├── setup.bat           # Quick setup (Windows CMD)
+├── setup.ps1           # Quick setup (PowerShell)
+└── README.md           # This file
 ```
