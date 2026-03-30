@@ -1,0 +1,18 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libpq-dev libgl1 libglib2.0-0 wget && \
+    rm -rf /var/lib/apt/lists/*
+
+# Install only the packages needed to run the API + a CPU worker
+# (skip torch/realesrgan/gfpgan for fast local startup)
+COPY requirements.dev.txt .
+RUN pip install --upgrade pip && pip install -r requirements.dev.txt
+
+COPY app/ ./app/
